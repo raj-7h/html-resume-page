@@ -44,9 +44,9 @@ HTML Resume Page Assignment built using HTML and CSS.
 - Review certifications
 - Contact information available
 
-🛠️ Technologies Used
-• HTML5
-• CSS3
+## 🛠️ Technologies Used
+- HTML5
+- CSS3
 
-👨‍💻 Author
+## 👨‍💻 Author
 Raj Kumar Jha
