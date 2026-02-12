@@ -11,13 +11,13 @@ HTML Resume Page Assignment built using HTML and CSS.
 ![Resume Preview](screenshots/home.png)
 
 ## 📂 Project Structure
-
+```
 .
 ├── index.html
 ├── README.md
 └── screenshots
 └── home.png
-
+```
 ## ⚙️ Setup Steps
 
 1. Create a project folder using terminal:
