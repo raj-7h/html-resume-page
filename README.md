@@ -16,7 +16,7 @@ HTML Resume Page Assignment built using HTML and CSS.
 ├── index.html
 ├── README.md
 └── screenshots
-└── home.png
+      └── home.png
 ```
 ## ⚙️ Setup Steps
 
