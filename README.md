@@ -1,6 +1,6 @@
 # Personal Resume Website
 
-This is a simple personal resume website built using HTML and CSS.
+HTML Resume Page Assignment built using HTML and CSS.
 
 ## Live Demo
 
@@ -12,16 +12,44 @@ This is a simple personal resume website built using HTML and CSS.
 
 ## 📂 Project Structure
 
+.
 ├── index.html
 ├── README.md
-└── screenshots/
+└── screenshots
 └── home.png
 
 ## ⚙️ Setup Steps
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/repository-name.git
-   ```
-2. Open the project folder.
-3. Open index.html in any web browser.
+## ⚙️ Setup Steps
+
+1. Create a project folder using terminal:
+
+```bash
+   mkdir HtmlResumePageAssignment
+   cd HtmlResumePageAssignment
+```
+
+2. Open the project folder in VS code.
+
+```bash
+   code .
+```
+
+3. Create index.html file inside the main directory.
+
+4. Open index.html and click Go Live (Live Server) in VS Code.
+
+5. The project will open in your default browser
+
+💡 Usage
+• View personal profile
+• Check skills and education
+• Review certifications
+• Contact information available
+
+🛠️ Technologies Used
+• HTML5
+• CSS3
+
+👨‍💻 Author
+Raj Kumar Jha
