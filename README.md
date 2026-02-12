@@ -1,10 +1,8 @@
 # Personal Resume Website
-
 HTML Resume Page Assignment built using HTML and CSS.
 
 ## Live Demo
-
-(Add your deployed link here)
+https://raj-7h.github.io/html-resume-page/
 
 ## 📸 Screenshots
 
