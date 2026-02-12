@@ -20,21 +20,17 @@ HTML Resume Page Assignment built using HTML and CSS.
 
 ## ⚙️ Setup Steps
 
-## ⚙️ Setup Steps
-
 1. Create a project folder using terminal:
 
 ```bash
    mkdir HtmlResumePageAssignment
    cd HtmlResumePageAssignment
 ```
-
 2. Open the project folder in VS code.
 
 ```bash
    code .
 ```
-
 3. Create index.html file inside the main directory.
 
 4. Open index.html and click Go Live (Live Server) in VS Code.
