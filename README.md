@@ -37,11 +37,12 @@ HTML Resume Page Assignment built using HTML and CSS.
 
 5. The project will open in your default browser
 
-💡 Usage
-• View personal profile
-• Check skills and education
-• Review certifications
-• Contact information available
+## 💡 Usage
+
+- View personal profile
+- Check skills and education
+- Review certifications
+- Contact information available
 
 🛠️ Technologies Used
 • HTML5
